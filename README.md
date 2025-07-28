@@ -48,7 +48,7 @@ To run this project locally, ensure you have the Flutter SDK installed and confi
 
 ### Clone the repository:
 
-git clone https://github.com/matidr/dice_roller_flutter.git
+git clone [https://github.com/matidr/dice_roller_flutter.git](https://github.com/matidr/dice_roller.git)
 
 ### Navigate to the project directory:
 
